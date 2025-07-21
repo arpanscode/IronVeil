@@ -1,7 +1,4 @@
-Disclaimer
--
-This is just a personal project to explore how AES-256 Encryption works in python.
-Not meant for production grade work.
+**DISCLAIMER: This is just for demonstration and exploration purposes. I don't claim by any means that this is production ready!**
 
 IRON VEIL: Python app to password protect any File
 -
