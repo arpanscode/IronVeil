@@ -34,7 +34,7 @@ FEATURES:
 
 screenshots
 -
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/e68700f4-63d0-4a8b-b8e8-c1fe41fd8ba3" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/54156080-1049-454c-9996-9960e15fd9b6" />
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/8e66a9a6-7498-412e-8622-6966264e52e3" />
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/bbee81ff-5fce-4074-be98-021c02465bbf" />
 
